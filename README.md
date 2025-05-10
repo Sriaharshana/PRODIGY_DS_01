@@ -9,15 +9,15 @@ The project provides a clear overview of how population varies by country and pr
 
 ✅ **Tasks Performed**
   
-*Loaded the population dataset and explored the first few rows
+-Loaded the population dataset and explored the first few rows
   
-*Cleaned the data by removing missing population values
+-Cleaned the data by removing missing population values
   
-*Analyzed the top 10 countries by population and visualized the data using a bar chart
+-Analyzed the top 10 countries by population and visualized the data using a bar chart
   
-*Explored the population proportions of the top 10 countries through a pie chart
+-Explored the population proportions of the top 10 countries through a pie chart
   
-*Generated a statistical summary of the population data for the latest year
+-Generated a statistical summary of the population data for the latest year
   
 *Analyzed the bottom 10 countries by population and visualized the data using a bar chart
   
