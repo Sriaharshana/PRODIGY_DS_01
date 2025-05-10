@@ -24,18 +24,15 @@ The project provides a clear overview of how population varies by country and pr
 - Matplotlib  
 - Seaborn
 
+
 ### 📊 Dataset
 
-Dataset used: World Bank Population Dataset (CSV format)  
+Dataset used: **World Bank Population Dataset** (CSV format)  
 The dataset contains population data for various countries over different years. Each record includes:
 
+- **Country Name**: The name of the country  
+- **Population data for each year** (e.g., 2022, 2021, etc.)
 
-
-
-  
--Country Name: The name of the country.
- 
--Population data for each year (e.g., 2022, 2021, etc.).
 
 For Queries Contact:http://www.linkedin.com/in/sriaharshana14
 
